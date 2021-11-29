@@ -1,0 +1,29 @@
+body {
+  background-color: #F2E7C7;
+  font-family: 'Lato', sans-serif;
+}
+
+.MuiDataGrid-root {
+  background-color: #FBFBFB;
+  box-shadow: 3px 5px 4px -2px rgb(0 0 0 / 10%);
+}
+
+.container {
+  width:80%;
+  margin: 24px auto;
+}
+
+hr {
+  height: 1.3px;
+  border-width: 0;
+  background-color: orangered;
+  color: orangered;
+  margin-bottom: 20px;
+}
+
+.notfound {
+  display: flex;
+  height: 80vh;
+  justify-content: space-around;
+  align-items: center;
+}

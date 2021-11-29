@@ -1,0 +1,33 @@
+form {
+  width: 40%;
+  height: 60vh;
+  margin: 0 auto;
+  box-shadow: 3px 5px 4px -2px rgb(0 0 0 / 10%);
+  border-radius: 6px;
+  background-color: #FBFBFB;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 60px;
+}
+
+form #subscribe{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+
+form .margin-form {
+  margin-bottom: 30px;
+}
+
+
+form .button {
+  width: 30%;
+  margin: 0 auto;
+}
+
+#login-form {
+  height: initial;
+}
