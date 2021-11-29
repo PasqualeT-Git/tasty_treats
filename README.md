@@ -13,7 +13,7 @@ Moreover, you need to create env files for the Backend and Frontend folders, che
 
 ```bash
 cd ~/
-git clone git@github.com:PasqualeT-Git/tasty_treats.git
+git clone https://github.com/PasqualeT-Git/tasty_treats.git
 ```
 - Install dependencies for the back-end:
 
