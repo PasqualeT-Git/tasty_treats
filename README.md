@@ -14,7 +14,6 @@ Moreover, you need to create env files for the Backend and Frontend folders, che
 ```bash
 cd ~/
 git clone git@github.com:PasqualeT-Git/tasty_treats.git
-git pull origin master
 ```
 - Install dependencies for the back-end:
 
